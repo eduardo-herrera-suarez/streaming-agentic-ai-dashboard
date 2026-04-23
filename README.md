@@ -215,7 +215,7 @@ No UI component library dependencies — fully custom design system.
 
 ---
 
-## Author
+## 👤 Author
 
 **Eduardo Herrera** — Building production-grade AI systems from Tijuana, Baja California.
 Senior Software Engineer  · AI/ML Engineer
